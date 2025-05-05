@@ -1,0 +1,4 @@
+docker
+flask
+python-jenkins
+-e .

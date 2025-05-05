@@ -1,0 +1,11 @@
+setup.py
+app/__init__.py
+app/predict.py
+app/train.py
+ci_cd_practice_1.egg-info/PKG-INFO
+ci_cd_practice_1.egg-info/SOURCES.txt
+ci_cd_practice_1.egg-info/dependency_links.txt
+ci_cd_practice_1.egg-info/requires.txt
+ci_cd_practice_1.egg-info/top_level.txt
+test/__init__.py
+test/unit_test.py

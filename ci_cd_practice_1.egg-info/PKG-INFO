@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ci-cd-practice-1
+Version: 0.1
+Summary: A simple example of a Python package
+Author: Ayaz ul haq yousafzai
+Author-email: www.ayazkhan.com.21@gmail.com
+Requires-Dist: docker
+Requires-Dist: flask
+Requires-Dist: python-jenkins
